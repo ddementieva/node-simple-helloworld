@@ -3,4 +3,4 @@ This is a simple HTTP server that responds to every request with the plain text 
 
 Port `9000`
 
-Start it with node `app.js` command
+Start it with `node app.js` command
